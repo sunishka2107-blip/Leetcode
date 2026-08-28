@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/sunishka2107-blip/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
