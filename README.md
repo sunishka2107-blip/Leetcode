@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
