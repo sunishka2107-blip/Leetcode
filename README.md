@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
