@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunishka2107-blip/Leetcode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
