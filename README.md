@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/sunishka2107-blip/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/sunishka2107-blip/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Sorting
 |  |
 | ------- |
