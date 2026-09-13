@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunishka2107-blip/Leetcode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunishka2107-blip/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
