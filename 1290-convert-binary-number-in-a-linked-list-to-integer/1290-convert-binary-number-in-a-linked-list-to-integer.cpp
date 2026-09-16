@@ -11,6 +11,9 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
+        if(head == NULL){
+            return -1 ; 
+        }
         int count = 0 ; 
         ListNode* temp = head ; 
         while(temp != NULL){
