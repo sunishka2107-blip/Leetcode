@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/sunishka2107-blip/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/sunishka2107-blip/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sunishka2107-blip/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -189,4 +190,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
