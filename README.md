@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sunishka2107-blip/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sunishka2107-blip/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/sunishka2107-blip/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/sunishka2107-blip/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sunishka2107-blip/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
