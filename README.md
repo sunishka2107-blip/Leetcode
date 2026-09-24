@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sunishka2107-blip/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
