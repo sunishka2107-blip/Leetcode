@@ -29,10 +29,15 @@ public:
         while(temp != NULL){
             int n = 2*temp->val + carry ; 
             temp->val=n%10 ; 
-            carry = n/10 ; 
+            if(n >=10){
+                carry = 1 ; 
+            }
+            else{
+                carry=0 ; 
+            }
             temp = temp->next ; 
         }
-        if(carry > 0){
+        if(carry == 1){
             ListNode* newNode = new ListNode(carry) ; 
             temp = head ; 
             while(temp->next != NULL){
