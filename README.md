@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Monotonic Stack
