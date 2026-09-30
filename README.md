@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sunishka2107-blip/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
