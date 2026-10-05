@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Monotonic Stack
 |  |
 | ------- |
