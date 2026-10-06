@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sunishka2107-blip/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2235-add-two-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunishka2107-blip/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sunishka2107-blip/Leetcode/tree/master/2469-convert-the-temperature) |
