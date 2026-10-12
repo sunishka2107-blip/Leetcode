@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
