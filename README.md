@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunishka2107-blip/Leetcode/tree/master/0011-container-with-most-water) |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Interactive
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sunishka2107-blip/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
