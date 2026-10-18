@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
+| [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sunishka2107-blip/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sunishka2107-blip/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 ## Tournament Sort
 |  |
 | ------- |
