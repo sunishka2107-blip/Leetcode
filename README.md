@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunishka2107-blip/Leetcode/tree/master/0011-container-with-most-water) |
+| [0670-maximum-swap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0670-maximum-swap) |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
 | [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sunishka2107-blip/Leetcode/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/sunishka2107-blip/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sunishka2107-blip/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
