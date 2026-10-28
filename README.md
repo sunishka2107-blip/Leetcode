@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/3046-split-the-array) |
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/sunishka2107-blip/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/3046-split-the-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sunishka2107-blip/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -523,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sunishka2107-blip/Leetcode/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
