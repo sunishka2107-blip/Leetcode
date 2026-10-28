@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sunishka2107-blip/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sunishka2107-blip/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sunishka2107-blip/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
