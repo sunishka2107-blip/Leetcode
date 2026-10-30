@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sunishka2107-blip/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/sunishka2107-blip/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/sunishka2107-blip/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sunishka2107-blip/Leetcode/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/sunishka2107-blip/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
