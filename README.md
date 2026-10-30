@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sunishka2107-blip/Leetcode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/sunishka2107-blip/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
