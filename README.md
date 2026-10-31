@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sunishka2107-blip/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
