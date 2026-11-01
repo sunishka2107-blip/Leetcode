@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/sunishka2107-blip/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/sunishka2107-blip/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/sunishka2107-blip/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
