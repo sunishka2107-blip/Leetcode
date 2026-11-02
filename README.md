@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sunishka2107-blip/Leetcode/tree/master/0326-power-of-three) |
+| [0445-add-two-numbers-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0670-maximum-swap) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sunishka2107-blip/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0897-increasing-order-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
