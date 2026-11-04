@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sunishka2107-blip/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
