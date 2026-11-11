@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/3046-split-the-array) |
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sunishka2107-blip/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sunishka2107-blip/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sunishka2107-blip/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sunishka2107-blip/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Matrix
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunishka2107-blip/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2437-number-of-valid-clock-times](https://github.com/sunishka2107-blip/Leetcode/tree/master/2437-number-of-valid-clock-times) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sunishka2107-blip/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
 |  |
 | ------- |
