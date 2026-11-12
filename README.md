@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/sunishka2107-blip/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
