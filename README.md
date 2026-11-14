@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sunishka2107-blip/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sunishka2107-blip/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sunishka2107-blip/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sunishka2107-blip/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sunishka2107-blip/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
