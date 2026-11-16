@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunishka2107-blip/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sunishka2107-blip/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sunishka2107-blip/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunishka2107-blip/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sunishka2107-blip/Leetcode/tree/master/0670-maximum-swap) |
 | [0765-couples-holding-hands](https://github.com/sunishka2107-blip/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0881-boats-to-save-people](https://github.com/sunishka2107-blip/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sunishka2107-blip/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Interactive
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunishka2107-blip/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sunishka2107-blip/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
