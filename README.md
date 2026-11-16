@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunishka2107-blip/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2899-last-visited-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2899-last-visited-integers) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/sunishka2107-blip/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
