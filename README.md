@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3894-traffic-signal-color](https://github.com/sunishka2107-blip/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sunishka2107-blip/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/sunishka2107-blip/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sunishka2107-blip/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/sunishka2107-blip/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2788-split-strings-by-separator](https://github.com/sunishka2107-blip/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/sunishka2107-blip/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Pigeonhole Principle
 |  |
 | ------- |
