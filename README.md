@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/sunishka2107-blip/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1672-richest-customer-wealth](https://github.com/sunishka2107-blip/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sunishka2107-blip/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunishka2107-blip/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/sunishka2107-blip/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/sunishka2107-blip/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sunishka2107-blip/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunishka2107-blip/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/sunishka2107-blip/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunishka2107-blip/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunishka2107-blip/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sunishka2107-blip/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/sunishka2107-blip/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
