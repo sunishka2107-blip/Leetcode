@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sunishka2107-blip/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sunishka2107-blip/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sunishka2107-blip/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunishka2107-blip/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/sunishka2107-blip/Leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sunishka2107-blip/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sunishka2107-blip/Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sunishka2107-blip/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sunishka2107-blip/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/sunishka2107-blip/Leetcode/tree/master/1051-height-checker) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
 | [3046-split-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/3046-split-the-array) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunishka2107-blip/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sunishka2107-blip/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunishka2107-blip/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -638,4 +643,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunishka2107-blip/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
