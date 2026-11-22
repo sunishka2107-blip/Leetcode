@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sunishka2107-blip/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sunishka2107-blip/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sunishka2107-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
