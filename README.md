@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sunishka2107-blip/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sunishka2107-blip/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunishka2107-blip/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunishka2107-blip/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sunishka2107-blip/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sunishka2107-blip/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sunishka2107-blip/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sunishka2107-blip/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2740-find-the-value-of-the-partition](https://github.com/sunishka2107-blip/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
