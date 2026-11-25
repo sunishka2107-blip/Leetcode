@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/sunishka2107-blip/Leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunishka2107-blip/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sunishka2107-blip/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sunishka2107-blip/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sunishka2107-blip/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2740-find-the-value-of-the-partition](https://github.com/sunishka2107-blip/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sunishka2107-blip/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sunishka2107-blip/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2961-double-modular-exponentiation](https://github.com/sunishka2107-blip/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/sunishka2107-blip/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2413-smallest-even-multiple](https://github.com/sunishka2107-blip/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sunishka2107-blip/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sunishka2107-blip/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sunishka2107-blip/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
