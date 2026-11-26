@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunishka2107-blip/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3804-number-of-centered-subarrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sunishka2107-blip/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/sunishka2107-blip/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sunishka2107-blip/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sunishka2107-blip/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3804-number-of-centered-subarrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sunishka2107-blip/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sunishka2107-blip/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3804-number-of-centered-subarrays](https://github.com/sunishka2107-blip/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
